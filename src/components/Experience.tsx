@@ -42,7 +42,7 @@ const Experience: React.FC = () => {
       ],
     },
     {
-      title: 'Project Management Fellow',
+      title: 'Project Management Fellowship',
       company: 'Foruppo',
       location: 'Remote',
       period: 'May 2024 – December 2024',

@@ -49,7 +49,7 @@ const Header: React.FC = () => {
         <div className="flex justify-between items-center py-4">
           <div className="flex-shrink-0">
             <h1 className="text-xl font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
-              Eswar Yarragolla
+              Eswar Venkata akash Yarragolla
             </h1>
             <p className="text-sm text-blue-300">Data Analyst</p>
           </div>
