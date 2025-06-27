@@ -42,7 +42,7 @@ const Hero: React.FC = () => {
             <h1 className="text-4xl md:text-6xl font-bold leading-tight">
               <span className="text-white">Hi, I'm </span>
               <span className="bg-gradient-to-r from-blue-400 via-purple-400 to-cyan-400 bg-clip-text text-transparent">
-                Eswar Venkata akash Yarragolla
+                Eswar Venkata Akash Yarragolla
               </span>
             </h1>
             
